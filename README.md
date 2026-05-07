@@ -65,3 +65,10 @@ Response:
   "sections": []
 }
 ```
+## Project Capabilities
+
+- Provides intelligent resume evaluation using AI-driven analysis
+- Helps users identify missing skills and improve ATS compatibility
+- Supports multiple resume formats for flexible document submission
+- Generates structured feedback with practical improvement suggestions
+- Designed with a responsive interface for a smooth user experience
